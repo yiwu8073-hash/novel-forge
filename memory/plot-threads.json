@@ -1,8 +1,8 @@
 {
   "threads": [
-    { "id": "t-main", "name": "记忆被篡改之谜", "status": "open", "activeSince": 1, "resolvedAt": null, "notes": "主线;第 1 章:林澈发现自身记忆空白;第 2 章:记忆体检揭示深度清零痕迹,林澈首次质疑校准体系" },
-    { "id": "t-stranger", "name": "失忆陌生人身份", "status": "open", "activeSince": 1, "resolvedAt": null, "notes": "第 1 章:陌生人出现并念出老人名字;第 2 章:残存记忆与林澈童年旧记忆重叠,来源疑为老人备份,档案查无此人;身份仍未知" },
-    { "id": "t-arclan", "name": "阿岚丢失的童年记忆", "status": "open", "activeSince": 1, "resolvedAt": null, "notes": "第 4 章与林澈记忆汇合;阿岚档案库渠道已铺垫" },
-    { "id": "t-lighthouse", "name": "灯塔信号异常", "status": "open", "activeSince": 1, "resolvedAt": null, "notes": "第 1 章:灯灭三次,频率异常;第 2 章:杂音较晨间多一拍(fs-001 强化);第 4 章揭示为旧系统求救" }
+    { "id": "t-main", "name": "记忆被篡改之谜", "status": "resolved", "activeSince": 1, "resolvedAt": 6, "notes": "主线完结:真相回归,校准改自愿,删除层开放,城市重建(第 6 章)" },
+    { "id": "t-stranger", "name": "失忆陌生人身份", "status": "resolved", "activeSince": 1, "resolvedAt": 6, "notes": "身份收束:老人记忆备份体,迟到三十年的信,第 6 章'替我把真实留住'送达" },
+    { "id": "t-arclan", "name": "阿岚丢失的童年记忆", "status": "resolved", "activeSince": 1, "resolvedAt": 4, "notes": "第 4 章正式汇合,童年记忆找回;第 6 章开冲洗店安顿" },
+    { "id": "t-lighthouse", "name": "灯塔信号异常", "status": "resolved", "activeSince": 1, "resolvedAt": 6, "notes": "第 4 章揭示为旧系统求救信号;第 6 章守灯人系统保留老人频率,不再强制校准" }
   ]
 }
