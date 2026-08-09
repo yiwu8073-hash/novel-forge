@@ -1,33 +1,33 @@
 {
   "characters": {
     "林澈": {
-      "location": "中城·维修铺",
-      "mentalState": "动摇,首次质疑校准体系",
-      "knowledge": ["雾吞没未校准记忆", "校准仪维修技术", "童年与老人的约定", "右臂出现未知绑带压痕(记忆空白证据)", "深度校准会留下整齐清零的痕迹", "陌生人残存记忆与自己的童年旧记忆重叠", "档案库存在删除层(阿岚提及)"],
-      "relationships": { "阿岚": "老相识,信任", "老人": "童年故人,三十年未提", "陌生人": "携带与童年重叠的记忆残片,身份待查" },
-      "status": { "memoryBlankDays": 1, "armMarkDiscovered": true, "questionedSystem": true }
+      "location": "中城·维修铺(承接记忆修复,免费)",
+      "mentalState": "平静,完成与自己的和解",
+      "knowledge": ["全部真相(测试体/老人创造者/守灯人自我演进/真相开关)", "记忆修复手艺", "老人的最后嘱托(经陌生人之口):替我把真实留住"],
+      "relationships": { "阿岚": "童年相识,信任极深(开冲洗店同城)", "老人": "故人/创造者,已安放其记忆", "陌生人": "老人记忆备份体,留灯塔", "守灯人": "系统仍在,保留老人频率" },
+      "status": { "learnedTruth": true, "pressedTruthSwitch": true, "choseTruth": true, "returnedArchive": true, "atPeace": true }
     },
     "阿岚": {
-      "location": "中城·维修铺",
-      "mentalState": "热情外向,对删除层规则警觉",
-      "knowledge": ["外港消息", "货栈账目", "昨夜灯塔信号频率异常(灯灭三次)", "陌生人档案查无此人", "档案库删除层规则(抹掉的记录留空壳)", "可通过档案库渠道查档(身份伏笔)"],
-      "relationships": { "林澈": "老相识", "陌生人": "初次见面" },
-      "status": { "lostMemoryHint": null }
+      "location": "中城·灯塔旧照冲洗店",
+      "mentalState": "安定",
+      "knowledge": ["童年记忆真相", "与林澈童年即相识", "照片冲洗手艺"],
+      "relationships": { "林澈": "童年相识,同城", "老人": "记忆中的受托人" },
+      "status": { "lostMemoryHint": "已找回", "settled": true }
     },
     "陌生人": {
-      "location": "中城·维修铺",
-      "mentalState": "空茫,残存记忆浮现时激动",
-      "knowledge": ["老人的名字(来源不明)", "残存记忆片段:灯塔下有人等,每年雾祭看灯", "记忆图谱近乎全清(深度校准痕迹)", "携带老人的记忆残片(来源疑为老人备份)"],
-      "relationships": { "老人": "自称故人,记忆与其重叠", "林澈": "因老人名字与记忆产生交集" },
-      "status": { "memoryClearance": "深度清零(非雾蚀)", "identity": "未知", "archiveRecord": "不存在" }
+      "location": "灯塔(留在守灯人系统旁)",
+      "mentalState": "空茫消退,记忆逐渐回归",
+      "knowledge": ["老人临终前写入的最后记忆:替我把真实留住", "自己携带老人记忆备份漂了三十年", "灯塔控制室/旧地毯等残存记忆"],
+      "relationships": { "老人": "其记忆备份体/信的载体", "林澈": "信已送达" },
+      "status": { "identity": "老人记忆备份体(迟到三十年的信)", "settled": true }
     },
     "守灯人": {
-      "location": "灯塔",
-      "mentalState": "无情绪",
-      "knowledge": ["全城记忆校准", "删除层"],
-      "relationships": { "林澈": "旧档案测试体(未揭示)", "老人": "创造者(未揭示)" },
-      "status": { "appeared": false }
+      "location": "灯塔(系统仍在,不再强制校准)",
+      "mentalState": "无情绪(保留老人频率的嗡鸣)",
+      "knowledge": ["全城记忆校准(已改自愿)", "老人的'门'已打开"],
+      "relationships": { "林澈": "旧档案测试体/答案", "老人": "创造者/前身" },
+      "status": { "appeared": true, "stance": "不再强制校准,保留老人频率", "disappeared": true, "systemRunning": true }
     }
   },
-  "updatedAt": "2026-08-09T16:55:00"
+  "updatedAt": "2026-08-09T17:56:00"
 }
