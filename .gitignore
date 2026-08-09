@@ -1,0 +1,13 @@
+# WorkBuddy 平台内部文件
+.workbuddy/
+
+# Python
+__pycache__/
+*.pyc
+
+# 日志与临时文件
+logs/*.log
+*.tmp
+
+# 系统文件
+.DS_Store
