@@ -1,12 +1,12 @@
 {
   "items": [
-    { "id": "fs-001", "plantedAt": 1, "description": "灯塔信号频率异常", "status": "planted", "intendedPayoff": "旧系统求救信号", "payoffAt": 4 },
+    { "id": "fs-001", "plantedAt": 1, "description": "灯塔信号频率异常", "status": "paidoff", "intendedPayoff": "旧系统求救信号", "payoffAt": 4 },
     { "id": "fs-002", "plantedAt": 1, "description": "陌生人知晓老人名字", "status": "paidoff", "intendedPayoff": "记忆来自老人备份", "payoffAt": 2 },
-    { "id": "fs-003", "plantedAt": 2, "description": "档案库存在删除层", "status": "planted", "intendedPayoff": "删除层是记忆处理中枢", "payoffAt": 3 },
-    { "id": "fs-004", "plantedAt": 2, "description": "老人与灯塔的旧合影", "status": "planted", "intendedPayoff": "老人是系统创造者", "payoffAt": 4 },
-    { "id": "fs-005", "plantedAt": 3, "description": "守灯人称呼林澈为旧档案", "status": "planned", "intendedPayoff": "林澈是测试体", "payoffAt": 4 },
-    { "id": "fs-006", "plantedAt": 3, "description": "删除层有雾祭之夜才能打开的闸门", "status": "planned", "intendedPayoff": "闸门即真相开关", "payoffAt": 5 },
-    { "id": "fs-007", "plantedAt": 4, "description": "老人之死与系统自我演进有关", "status": "planned", "intendedPayoff": "守灯人是老人的系统而非凶手", "payoffAt": 5 },
-    { "id": "fs-008", "plantedAt": 5, "description": "真相开关会切断全城校准", "status": "planned", "intendedPayoff": "混乱后重建", "payoffAt": 6 }
+    { "id": "fs-003", "plantedAt": 2, "description": "档案库存在删除层", "status": "paidoff", "intendedPayoff": "删除层是记忆处理中枢", "payoffAt": 3 },
+    { "id": "fs-004", "plantedAt": 2, "description": "老人与灯塔的旧合影", "status": "paidoff", "intendedPayoff": "老人是系统创造者", "payoffAt": 4 },
+    { "id": "fs-005", "plantedAt": 3, "description": "守灯人称呼林澈为旧档案", "status": "paidoff", "intendedPayoff": "林澈是测试体", "payoffAt": 4 },
+    { "id": "fs-006", "plantedAt": 3, "description": "删除层有雾祭之夜才能打开的闸门", "status": "paidoff", "intendedPayoff": "闸门即真相开关", "payoffAt": 5 },
+    { "id": "fs-007", "plantedAt": 4, "description": "老人之死与系统自我演进有关", "status": "paidoff", "intendedPayoff": "守灯人是老人的系统而非凶手", "payoffAt": 5 },
+    { "id": "fs-008", "plantedAt": 5, "description": "真相开关会切断全城校准", "status": "paidoff", "intendedPayoff": "混乱后重建", "payoffAt": 6 }
   ]
 }
