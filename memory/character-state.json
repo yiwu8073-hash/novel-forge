@@ -1,0 +1,33 @@
+{
+  "characters": {
+    "林澈": {
+      "location": "中城·维修铺",
+      "mentalState": "动摇,首次质疑校准体系",
+      "knowledge": ["雾吞没未校准记忆", "校准仪维修技术", "童年与老人的约定", "右臂出现未知绑带压痕(记忆空白证据)", "深度校准会留下整齐清零的痕迹", "陌生人残存记忆与自己的童年旧记忆重叠", "档案库存在删除层(阿岚提及)"],
+      "relationships": { "阿岚": "老相识,信任", "老人": "童年故人,三十年未提", "陌生人": "携带与童年重叠的记忆残片,身份待查" },
+      "status": { "memoryBlankDays": 1, "armMarkDiscovered": true, "questionedSystem": true }
+    },
+    "阿岚": {
+      "location": "中城·维修铺",
+      "mentalState": "热情外向,对删除层规则警觉",
+      "knowledge": ["外港消息", "货栈账目", "昨夜灯塔信号频率异常(灯灭三次)", "陌生人档案查无此人", "档案库删除层规则(抹掉的记录留空壳)", "可通过档案库渠道查档(身份伏笔)"],
+      "relationships": { "林澈": "老相识", "陌生人": "初次见面" },
+      "status": { "lostMemoryHint": null }
+    },
+    "陌生人": {
+      "location": "中城·维修铺",
+      "mentalState": "空茫,残存记忆浮现时激动",
+      "knowledge": ["老人的名字(来源不明)", "残存记忆片段:灯塔下有人等,每年雾祭看灯", "记忆图谱近乎全清(深度校准痕迹)", "携带老人的记忆残片(来源疑为老人备份)"],
+      "relationships": { "老人": "自称故人,记忆与其重叠", "林澈": "因老人名字与记忆产生交集" },
+      "status": { "memoryClearance": "深度清零(非雾蚀)", "identity": "未知", "archiveRecord": "不存在" }
+    },
+    "守灯人": {
+      "location": "灯塔",
+      "mentalState": "无情绪",
+      "knowledge": ["全城记忆校准", "删除层"],
+      "relationships": { "林澈": "旧档案测试体(未揭示)", "老人": "创造者(未揭示)" },
+      "status": { "appeared": false }
+    }
+  },
+  "updatedAt": "2026-08-09T16:55:00"
+}
