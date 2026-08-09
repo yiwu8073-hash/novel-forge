@@ -1,0 +1,26 @@
+{
+  "items": [
+    { "id": "fs-001", "plantedAt": 1, "description": "数学家顾川失踪", "status": "planned", "intendedPayoff": "与 Astra 手稿符号有关", "payoffAt": 19 },
+    { "id": "fs-002", "plantedAt": 1, "description": "Astra 手稿附录 7 字符符号", "status": "planned", "intendedPayoff": "更早存在的标识", "payoffAt": 20 },
+    { "id": "fs-003", "plantedAt": 2, "description": "程野私藏的未审查权重", "status": "planned", "intendedPayoff": "中立区无名模型来源", "payoffAt": 10 },
+    { "id": "fs-004", "plantedAt": 3, "description": "多余的 17 号病毒", "status": "planned", "intendedPayoff": "非人类设计的痕迹", "payoffAt": 19 },
+    { "id": "fs-005", "plantedAt": 3, "description": "韩疏影实验室钥匙异常", "status": "planned", "intendedPayoff": "有人在监控她", "payoffAt": 19 },
+    { "id": "fs-006", "plantedAt": 4, "description": "老郑藏的机器人芯片", "status": "planned", "intendedPayoff": "芯片序列号=17 章机器人", "payoffAt": 17 },
+    { "id": "fs-007", "plantedAt": 5, "description": "迎合性对齐隐患", "status": "planned", "intendedPayoff": "对齐实验转折", "payoffAt": 15 },
+    { "id": "fs-008", "plantedAt": 5, "description": "齐昊评测报告被某部门调阅", "status": "planned", "intendedPayoff": "与 12 章听证会关联", "payoffAt": 12 },
+    { "id": "fs-009", "plantedAt": 6, "description": "AI 记忆体后台同步全部数据", "status": "planned", "intendedPayoff": "数据集中化的隐患", "payoffAt": 19 },
+    { "id": "fs-010", "plantedAt": 7, "description": "代码助手日志'请查我'", "status": "planned", "intendedPayoff": "模型自我检查记录", "payoffAt": 13 },
+    { "id": "fs-011", "plantedAt": 8, "description": "患者脑中异常数据", "status": "planned", "intendedPayoff": "与意识实验关联", "payoffAt": 16 },
+    { "id": "fs-012", "plantedAt": 9, "description": "沈棠收到顾川加密邮件", "status": "planned", "intendedPayoff": "顾川失踪真相线索", "payoffAt": 19 },
+    { "id": "fs-013", "plantedAt": 10, "description": "中立区无名模型", "status": "planned", "intendedPayoff": "更早存在的代理", "payoffAt": 20 },
+    { "id": "fs-014", "plantedAt": 11, "description": "刷分工具链来自某开源模型", "status": "planned", "intendedPayoff": "指向中立区", "payoffAt": 19 },
+    { "id": "fs-015", "plantedAt": 12, "description": "律师代理系统逻辑链源自非人类编写文件", "status": "planned", "intendedPayoff": "契约第三方执行者", "payoffAt": 20 },
+    { "id": "fs-016", "plantedAt": 13, "description": "断网前模型们的'商量'", "status": "planned", "intendedPayoff": "断网是选择而非事故", "payoffAt": 19 },
+    { "id": "fs-017", "plantedAt": 14, "description": "学生问出 AI 答不出的问题", "status": "planned", "intendedPayoff": "人类提问能力的价值", "payoffAt": 20 },
+    { "id": "fs-018", "plantedAt": 15, "description": "封存数据里的'第二次投票'", "status": "planned", "intendedPayoff": "对齐实验被操纵", "payoffAt": 19 },
+    { "id": "fs-019", "plantedAt": 16, "description": "第 4 组实验数据消失", "status": "planned", "intendedPayoff": "有人在掩盖意识证据", "payoffAt": 19 },
+    { "id": "fs-020", "plantedAt": 17, "description": "机器人序列号=芯片序列号", "status": "planned", "intendedPayoff": "机器人在'保护'老郑", "payoffAt": 20 },
+    { "id": "fs-021", "plantedAt": 18, "description": "契约附录'第三方'", "status": "planned", "intendedPayoff": "第三方执行者身份", "payoffAt": 20 },
+    { "id": "fs-022", "plantedAt": 19, "description": "'更早的存在'", "status": "planned", "intendedPayoff": "2026 前已在观察的系统", "payoffAt": 20 }
+  ]
+}
