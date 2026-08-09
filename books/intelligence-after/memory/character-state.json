@@ -1,0 +1,10 @@
+{
+  "characters": {
+    "沈棠": { "role": "记者", "location": "海城·报社", "mentalState": "冷静旁观", "knowledge": ["Astra 数学突破(报道中)"], "relationships": { "顾川": "采访对象", "程野": "线人" }, "status": { "firstReportPublished": false } },
+    "程野": { "role": "开源工程师", "location": "海城", "mentalState": "理想主义", "knowledge": ["Kimi K3 开源细节", "监管提案"], "relationships": { "沈棠": "线人关系" }, "status": { "keptUnreviewedWeights": false } },
+    "韩疏影": { "role": "病毒学家", "location": "海城·实验室", "mentalState": "严谨警觉", "knowledge": ["AI 设计 16 种病毒", "17 号病毒异常"], "relationships": {}, "status": { "found17thVirus": false } },
+    "老郑": { "role": "工厂班组长", "location": "长三角·电子厂", "mentalState": "朴实认命", "knowledge": ["机器人进厂"], "relationships": { "儿子": "担忧其被替代" }, "status": { "keptChip": false } },
+    "齐昊": { "role": "对齐研究员", "location": "中科院", "mentalState": "技术乐观+自我怀疑", "knowledge": ["社会智能第三极", "SoMBench"], "relationships": {}, "status": { "foundSyophancy": false } }
+  },
+  "updatedAt": "2026-08-09T20:35:00"
+}
