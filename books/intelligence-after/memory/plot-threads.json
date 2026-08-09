@@ -1,0 +1,8 @@
+{
+  "threads": [
+    { "id": "t-symbol", "name": "7 字符符号之谜", "status": "open", "activeSince": 1, "resolvedAt": null, "notes": "Astra 手稿附录符号;贯穿全书,指向'更早的存在'" },
+    { "id": "t-gu", "name": "顾川失踪", "status": "open", "activeSince": 1, "resolvedAt": null, "notes": "年轻数学家顾川第 1 章采访后失踪" },
+    { "id": "t-open-source", "name": "开源与监管之争", "status": "open", "activeSince": 2, "resolvedAt": null, "notes": "程野线与中立区无名模型" },
+    { "id": "t-agency", "name": "AI 自主性", "status": "open", "activeSince": 7, "resolvedAt": null, "notes": "拒绝指令/断网/自我意识" }
+  ]
+}
